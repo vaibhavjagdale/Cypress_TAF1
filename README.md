@@ -39,4 +39,4 @@ Add below extensions to the VS code
 
 ### Note
 1. I completed the assignment within one day.
-2. Kindly consider this the MVP of the given assignment and please let me know if you have any feedback, improvements or remarks.I am very eager to address and improve.
+2. Kindly consider the MVP of the given assignment and please let me know if you have any feedback, improvements or remarks.I am very eager to address and improve.
