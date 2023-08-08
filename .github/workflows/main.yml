@@ -1,4 +1,4 @@
-name: Automation Tests.
+name: Daily Test Execution.
 
 # configure manual trigger, push event, pull_request event and daily nightly execution.
 on:
