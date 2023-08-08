@@ -8,12 +8,15 @@
   },
   "scripts": {
     "cypress:open": "cypress open",
-    "cypress:smoke-test": "cypress run --spec **/*.cy.js"
+    "cypress:smoke-test": "cypress run --spec **/*.cy.js --reporter mochawesome"
   },
   "keywords": [
     "cypress",
     "test automation",
     "javascript"
   ],
-  "author": "Vaibhav Jagdale"
+  "author": "Vaibhav Jagdale",
+  "devDependencies": {
+    "mochawesome": "^7.1.3"
+  }
 }

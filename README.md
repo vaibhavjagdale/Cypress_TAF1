@@ -9,6 +9,11 @@ Create UI Automation Framework Cypress and Javscript
 
 These instructions will get you a copy of the project up and running on your local.
 
+
+## Dependencies:
+
+![cypress](https://img.shields.io/badge/cypress-v9.7.0-green) ![nodejs](<https://img.shields.io/badge/nodejs%20(LTS)-%20v16.14.2-green>)
+
 ## Prerequisites
 
 1. Node and NPM. [Installation Guide](https://nodejs.org/en/download/)
@@ -29,3 +34,7 @@ Add below extensions to the VS code
 ### Running the tests
 
 - To run test on local `npm run cypress:smoke-test`
+
+### Test Result
+
+- Check test result in mochawesome-report folder.

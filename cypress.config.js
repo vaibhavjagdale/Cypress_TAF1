@@ -10,6 +10,7 @@ module.exports = defineConfig({
     "pageLoadTimeout": 20000,
     "screenshotsFolder": "cypress/screenshots",
     "video": false,
-    "chromeWebSecurity": false
+    "chromeWebSecurity": false,
+    reporter: 'mochawesome',
   },
 });

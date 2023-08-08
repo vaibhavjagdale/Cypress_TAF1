@@ -7,6 +7,7 @@ cypress/e2e/other
 cypress\downloads
 cypress\videos
 package-lock.json
+mochawesome-report
 
 #vs code settings
 .vscode/
