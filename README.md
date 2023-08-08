@@ -2,11 +2,11 @@
 
 UI Automation Framework with Cypress and Javscript
 ## Features
-Used Page Object Model for managing your test cases.
-Used Helpers classes
-Well-defined folder structure.
-Used cy.log for logging.
-Github actions for manual trigger, push event, pull_request event and daily nightly execution.
+- Used Page Object Model for managing your test cases.
+- Used Helpers classes
+- Well-defined folder structure.
+- Used cy.log for logging.
+- Github actions for manual trigger, push event, pull_request event and daily nightly execution.
 
 ## Getting Started
 Project set-up for running test.
@@ -29,13 +29,13 @@ Add below extensions to the VS code
 2. Install all the dependencies using command `npm install`
 
 ### Running the tests
-Run test using command `npm run cypress:smoke-test`
+- Run test using command `npm run cypress:smoke-test`
 
 ### Test Result
-Check test result in mochawesome-report folder.
+- Check test result in mochawesome-report folder.
 
 ### Part 1 (Manual) task solution
-- Kindly check Part 1 (Manual).txt file in the same repository.
+- Kindly check Part1-Task(Manual).txt file.
 
 ### Note
 1. I completed the assignment within one day.
