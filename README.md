@@ -30,4 +30,4 @@ Add below extensions to the VS code
 
 ### Running the tests
 
-- To run test on local `npm run local`
+- To run test on local `npm run cypress:smoke-test`
