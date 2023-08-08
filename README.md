@@ -1,6 +1,6 @@
 # QA Engineer Challenge with Cypress+Javascript
 
-UI Automation Framework Cypress and Javscript
+UI Automation Framework with Cypress and Javscript
 ## Features
 - Used Page Object Model for managing your test cases.
 - Used Helpers classes.
@@ -9,7 +9,7 @@ UI Automation Framework Cypress and Javscript
 - Github actions for manual trigger, push event, pull_request event and daily nightly execution.
 
 ## Getting Started
-These instructions will get you a copy of the project up and running on your local.
+Project set-up and running on your local.
 
 ## Dependencies:
 ![cypress](https://img.shields.io/badge/cypress-v9.7.0-green) ![nodejs](<https://img.shields.io/badge/nodejs%20(LTS)-%20v16.14.2-green>)
