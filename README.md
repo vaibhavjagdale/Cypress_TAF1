@@ -33,3 +33,10 @@ Add below extensions to the VS code
 
 ### Test Result
 - Check test result in mochawesome-report folder after successful test execution.
+
+### Part 1 (Manual) task solution
+- Kindly check Part 1 (Manual).txt file in the same repository.
+
+### Note
+1. I have completed the assignment within 1 day.
+2. Kindly consider this as MVP of given assignment and let me know if any feedback/improvemnet/remarks.I am happy improve.
