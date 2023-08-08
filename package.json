@@ -8,7 +8,7 @@
   },
   "scripts": {
     "cypress:open": "cypress open",
-    "cypress:smoke-test": "cypress run --spec **/*.cy.js --browser chrome "
+    "cypress:smoke-test": "cypress run --spec **/*.cy.js"
   },
   "keywords": [
     "cypress",
