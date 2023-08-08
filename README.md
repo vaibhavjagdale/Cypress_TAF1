@@ -38,5 +38,5 @@ Add below extensions to the VS code
 - Kindly check Part 1 (Manual).txt file in the same repository.
 
 ### Note
-1. I have completed the assignment within 1 day.
-2. Kindly consider this as MVP of given assignment and let me know if any feedback/improvemnet/remarks.I am happy improve.
+1. I completed the assignment within one day.
+2. Kindly consider this the MVP of the given assignment and please let me know if you have any feedback, improvements or remarks.I am very eager to address and improve.
