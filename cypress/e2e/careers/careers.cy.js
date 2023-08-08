@@ -2,7 +2,7 @@ import testData from '../../fixtures/testData.json'
 import { careerPageHelper } from '../../helpers/careerPageHelper';
 import { careerPageAssertion } from '../../assertion/careerPageAssertion';
 
-describe('Search job', () => {
+describe('Search job on career portal: Test Automation Engineer', () => {
 
   beforeEach(() => {
     cy.viewport(1280, 800);
