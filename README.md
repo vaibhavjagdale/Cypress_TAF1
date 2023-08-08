@@ -6,6 +6,7 @@ UI Automation Framework Cypress and Javscript
 - Used Helpers classes.
 - Well defined folder structured.
 - Used cy.log for logging.
+- Github actions for manual trigger, push event, pull_request event and daily nightly execution.
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local.
