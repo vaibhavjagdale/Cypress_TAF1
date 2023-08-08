@@ -37,4 +37,4 @@ Add below extensions to the VS code
 
 ### Test Result
 
-- Check test result in mochawesome-report folder.
+- Check test result in mochawesome-report folder after successful test execution.
