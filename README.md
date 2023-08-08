@@ -1,7 +1,5 @@
 # QA Engineer Challenge with Cypress+Javascript
 
-![Alt text](https://images.app.goo.gl/VVNdDajXvDwE12tSA](https://res.cloudinary.com/practicaldev/image/fetch/s--Ps1BsKuE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/cn8mu2ta720ccpne32qr.png))
-
 Create UI Automation Framework Cypress and Javscript
 ## Features
 - Use Page Object Model for managing your test cases
