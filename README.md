@@ -1,9 +1,9 @@
 # QA Engineer Challenge with Cypress+Javascript
 
-UI Automation Framework with Cypress and Javscript
+UI Test Automation Framework with Cypress and Javscript
 ## Features
-- Used Page Object Model for managing your test cases.
-- Used Helpers classes
+- Used Page Object Model.
+- Used Helpers classes.
 - Well-defined folder structure.
 - Used cy.log for logging.
 - Github actions for manual trigger, push event, pull_request event and daily nightly execution.
@@ -35,7 +35,7 @@ Add below extensions to the VS code
 - Check test result in mochawesome-report folder.
 
 ### Part 1 (Manual) task solution
-- Kindly check Part1-Task(Manual).txt file.
+- Check Part1-Task(Manual).txt file.
 
 ### Note
 1. I completed the assignment within one day.
