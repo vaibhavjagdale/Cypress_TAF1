@@ -1,8 +1,6 @@
 # QA Engineer Challenge with Cypress+Javascript
 
-![Alt text](https://images.app.goo.gl/VVNdDajXvDwE12tSA)
-
-Create a UI Automation Framework Cypress and Javscript
+Create UI Automation Framework Cypress and Javscript
 ## Features
 - Use Page Object Model for managing your test cases
 - Well defined folder structured.
@@ -30,4 +28,4 @@ Add below extensions to the VS code
 
 ### Running the tests
 
-- To run test on local `npm run local`
+- To run test on local `npm run cypress:smoke-test`
