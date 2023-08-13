@@ -7,8 +7,8 @@ on:
     branches: [ main ]
   pull_request:
     branches: [ main ]  
-  schedule: ## Schedule the job to run at 12.am daily.
-    - cron: '0 */4 * * *'
+ ## schedule: ## Schedule the job to run at 12.am daily.
+ ##   - cron: '0 */4 * * *'
   
 jobs:
   UAT-Smoke-Tests:
