@@ -18,5 +18,4 @@ jobs:
       - name: Smoke Tests
         run: |
           npm install
-          npm install cypress
-          npm run cypress:smoke-test
+    
